@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70051234353",
+    "project_id": "certificateverifications-53b19",
+    "storage_bucket": "certificateverifications-53b19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70051234353:android:fe891268f591a658e88b10",
+        "android_client_info": {
+          "package_name": "com.example.certify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqH8Y8qKhMzdqSNXWG03hZc_ZFnsE91E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
